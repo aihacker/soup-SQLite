@@ -1,5 +1,5 @@
 
-最近在了解SQLite
+最近在了解SQLite  <br/>
 首先我不是一个开发人员，php不懂太多html也不懂，
 前段时间看到开源的毒鸡汤https://github.com/egotong/nows 
 自己也部署了一份，自己的环境是php7 也做了适配。
